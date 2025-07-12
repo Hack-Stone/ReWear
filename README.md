@@ -1,4 +1,4 @@
-<img width="1897" height="900" alt="image" src="https://github.com/user-attachments/assets/2c6f01d8-1929-40a4-846d-0b2a7253d6c7" /># 👕 ReWear – Sustainable Fashion Platform ♻️
+# 👕 ReWear – Sustainable Fashion Platform ♻️
 
 **ReWear** is a powerful and user-friendly web platform that promotes sustainable fashion by enabling users to **redeem, resell, and repurpose clothing**. Built with simplicity, style, and impact in mind, ReWear connects eco-conscious individuals with opportunities to give fashion a second life.
 
